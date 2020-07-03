@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://54.169.247.250:85/Identity/Account/Login?ReturnUrl=%2FPeople%2FCreate')
 
-WebUI.setText(findTestObject('Object Repository/Person/Page_LIMS  Log in/input_v10_InputUserName'), 'qcstdev')
+WebUI.setText(findTestObject('Object Repository/Person/Page_LIMS  Log in/input_v10_InputUserName'), 'HNDA')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Person/Page_LIMS  Log in/input_v10_InputPassword'), 'rXz5fG76N1x/0XfTppooEQ==')
 
@@ -37,25 +37,25 @@ WebUI.scrollToPosition(200, 200)
 
 WebUI.click(findTestObject('Object Repository/Person/Page_LIMS/input__Name'))
 
-WebUI.setText(findTestObject('Object Repository/Person/Page_LIMS/input_84'), 'Daw Nan Ngwe Yi Phoo')
+WebUI.setText(findTestObject('Object Repository/Person/Page_LIMS/input_84'), 'Daw Myat Shwe Yi Khine Win')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Person/Page_LIMS/select_'), '၅', true)
 
-WebUI.click(findTestObject('Object Repository/PersonRegistration/Page_LIMS/span_Initial_select2-selection select2-sele_80bf6e'))
+WebUI.click(findTestObject('Person/Page_LIMS/span_Initial_select2-selection select2-sele_80bf6e'))
 
-WebUI.rightClick(findTestObject('Object Repository/Person/Page_LIMS/li_'))
+WebUI.rightClick(findTestObject('Person/Page_LIMS/li_'))
 
 WebUI.click(findTestObject('Object Repository/Person/Page_LIMS/input_Registration Status_NRCTail'))
 
-WebUI.setText(findTestObject('Object Repository/Person/Page_LIMS/input_0'), '၇၈၄၃၅၉')
+WebUI.setText(findTestObject('Object Repository/Person/Page_LIMS/input_0'), '၇၆၈၆၄၂')
 
 WebUI.scrollToPosition(0, 200)
 
 WebUI.click(findTestObject('Object Repository/Person/Page_LIMS/input__ContactNo'))
 
-WebUI.setText(findTestObject('Object Repository/Person/Page_LIMS/input_0_1'), '09494984474')
+WebUI.setText(findTestObject('Object Repository/Person/Page_LIMS/input_0_1'), '09475196478')
 
-WebUI.setText(findTestObject('Object Repository/Person/Page_LIMS/textarea_189'), '09494984474')
+WebUI.setText(findTestObject('Object Repository/Person/Page_LIMS/textarea_189'), '09494984447')
 
 WebUI.click(findTestObject('Object Repository/Person/Page_LIMS/span__select2-selection select2-selection--single'))
 

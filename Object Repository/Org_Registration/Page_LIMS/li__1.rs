@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='select2-TownshipPCode-results']/li[38]</value>
+         <value>//li[38]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

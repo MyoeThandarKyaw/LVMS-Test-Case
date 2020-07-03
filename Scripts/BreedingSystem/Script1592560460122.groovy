@@ -35,9 +35,7 @@ WebUI.click(findTestObject('Object Repository/BreedingSystem/Page_LIMS/a_Breedin
 
 WebUI.click(findTestObject('Object Repository/BreedingSystem/Page_LIMS/button_New Breeding System'))
 
-WebUI.click(findTestObject('Object Repository/BreedingSystem/Page_LIMS/input_New Breeding System_Name'))
-
-WebUI.setText(findTestObject('Object Repository/BreedingSystem/Page_LIMS/input_21'), 'Continuous')
+WebUI.setText(findTestObject('Object Repository/BreedingSystem/Page_LIMS/input_New Breeding System_Name'), ' ')
 
 WebUI.click(findTestObject('Object Repository/BreedingSystem/Page_LIMS/input_New Breeding System_btn-confirm'))
 

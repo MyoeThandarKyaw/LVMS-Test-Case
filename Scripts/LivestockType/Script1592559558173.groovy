@@ -35,9 +35,7 @@ WebUI.click(findTestObject('Object Repository/LivestockType/Page_LIMS/button_New
 
 WebUI.click(findTestObject('Object Repository/LivestockType/Page_LIMS/input_New Livestock Type_Name'))
 
-WebUI.rightClick(findTestObject('Object Repository/LivestockType/Page_LIMS/input_New Livestock Type_Name'))
-
-WebUI.setText(findTestObject('Object Repository/LivestockType/Page_LIMS/input_12'), 'Turkeys')
+WebUI.setText(findTestObject('LivestockType/Page_LIMS/input_New Livestock Type_Name'), ' ')
 
 WebUI.click(findTestObject('Object Repository/LivestockType/Page_LIMS/input_New Livestock Type_btn-confirm'))
 

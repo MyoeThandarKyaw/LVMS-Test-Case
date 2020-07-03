@@ -30,47 +30,46 @@ WebUI.click(findTestObject('Object Repository/LivestockRegistration/Page_LIMS  L
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/a_Livestock'))
+WebUI.click(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/p_Livestock'))
 
 WebUI.click(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/a_New Livestock'))
 
-WebUI.click(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/span_Select'))
+WebUI.click(findTestObject('LivestockRegistration/Page_LIMS/span_Select'))
 
 WebUI.rightClick(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/li_'))
 
-WebUI.click(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/span_Select_1'))
+WebUI.click(findTestObject('LivestockRegistration/Page_LIMS/span_Select_1'))
 
 WebUI.rightClick(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/li__1'))
 
 WebUI.click(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/span_Select Owner'))
 
-WebUI.rightClick(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/li_Daw Khine Su Wai - ()'))
+WebUI.rightClick(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/li_U Kaung Htet San - ()'))
 
 WebUI.click(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/input_Animal is_LocationType'))
 
 WebUI.scrollToPosition(300, 300)
 
+WebUI.click(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/input_Livestock Code_LivestockCode'))
+
+WebUI.setText(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/input_1'), 'LV-000015')
+
 WebUI.click(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/input__RFID0'))
 
-WebUI.setText(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/input_0'), '248487474894055')
+WebUI.setText(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/input_0'), '677190031355622')
 
-WebUI.scrollToPosition(600, 600)
+WebUI.click(findTestObject('LivestockRegistration/Page_LIMS/span__select2-selection select2-selection--single'))
 
-WebUI.click(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/span__select2-selection select2-selection--single'))
+WebUI.rightClick(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/li_Cattle'))
 
-WebUI.rightClick(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/li_Buffalo'))
+WebUI.click(findTestObject('LivestockRegistration/Page_LIMS/span__select2-selection select2-selection--single_1'))
 
-WebUI.click(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/span__select2-selection select2-selection--single'))
-
-WebUI.rightClick(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/li_Carabao'))
+WebUI.rightClick(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/li_Jersey cattle'))
 
 WebUI.scrollToElement(findTestObject('LivestockRegistration/Page_LIMS/div_Drop files here to upload'), 5)
 
+CustomKeywords.'photo_upload.photoupload.uploadFile'(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/div_Drop files here to upload'), 
+    'D:\\ATO\\AIMS\\Cows_photos\\6.jpg')
 
-CustomKeywords.'photo_upload.photoupload.uploadFile'(findTestObject('LivestockRegistration/Page_LIMS/div_Drop files here to upload'), 'D:\\ATO\\AIMS\\Cows_photos\\6.jpg')
-
-
-WebUI.scrollToElement(findTestObject('LivestockRegistration/Page_LIMS/input_Total Births Given_btn-confirm-view'), 3)
-
-WebUI.click(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/input_Total Births Given_btn-confirm-view'))
+WebUI.click(findTestObject('Object Repository/LivestockRegistration/Page_LIMS/input_Total Births Given_btn_save_view'))
 

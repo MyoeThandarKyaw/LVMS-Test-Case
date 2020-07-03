@@ -35,12 +35,12 @@ WebUI.click(findTestObject('Object Repository/Breeds/Page_LIMS/a_Breeds'))
 
 WebUI.click(findTestObject('Object Repository/Breeds/Page_LIMS/button_New Breed'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Breeds/Page_LIMS/select_Select Livestock Type               _2423a1'), 
-    '14', true)
+WebUI.selectOptionByValue(findTestObject('Breeds/Page_LIMS/Page_LIMS/select_Select Livestock Type                        SheepCattleBuffaloTurkeysDucks'), 
+    '17', false)
 
 WebUI.click(findTestObject('Object Repository/Breeds/Page_LIMS/input_New Breed_Name'))
 
-WebUI.setText(findTestObject('Object Repository/Breeds/Page_LIMS/input_22'), 'Arado')
+WebUI.setText(findTestObject('Breeds/Page_LIMS/input_New Breed_Name'), ' ')
 
 WebUI.click(findTestObject('Object Repository/Breeds/Page_LIMS/input_New Breed_btn-confirm'))
 

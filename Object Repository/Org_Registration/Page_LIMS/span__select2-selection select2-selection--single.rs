@@ -6,16 +6,16 @@
    <elementGuidId>ef8db0a4-7d2b-426b-b90a-1a6a87db773e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>id(&quot;create-form&quot;)/div[@class=&quot;card card-primary&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group&quot;]/span[@class=&quot;select2 select2-container select2-container--bootstrap4 select2-container--below select2-container--open&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;][count(. | //span[@class = 'select2-selection select2-selection--single' and @role = 'combobox' and @aria-haspopup = 'true' and @aria-expanded = 'true' and @tabindex = '0' and @aria-disabled = 'false' and @aria-labelledby = 'select2-TownshipPCode-container' and @aria-owns = 'select2-TownshipPCode-results' and @aria-activedescendant = 'select2-TownshipPCode-result-vmnq-MMR001001']) = count(//span[@class = 'select2-selection select2-selection--single' and @role = 'combobox' and @aria-haspopup = 'true' and @aria-expanded = 'true' and @tabindex = '0' and @aria-disabled = 'false' and @aria-labelledby = 'select2-TownshipPCode-container' and @aria-owns = 'select2-TownshipPCode-results' and @aria-activedescendant = 'select2-TownshipPCode-result-vmnq-MMR001001'])]</value>
+         <key>CSS</key>
+         <value>id(&quot;create-form&quot;)/div[@class=&quot;card card-primary&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group&quot;]/span[@class=&quot;select2 select2-container select2-container--bootstrap4 select2-container--below select2-container--open&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::span[3]</value>
+         <value>//div[8]/span[2]/span/span</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>id(&quot;create-form&quot;)/div[@class=&quot;card card-primary&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group&quot;]/span[@class=&quot;select2 select2-container select2-container--bootstrap4 select2-container--below select2-container--open&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]</value>
+         <key>BASIC</key>
+         <value>id(&quot;create-form&quot;)/div[@class=&quot;card card-primary&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group&quot;]/span[@class=&quot;select2 select2-container select2-container--bootstrap4 select2-container--below select2-container--open&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;][count(. | //span[@class = 'select2-selection select2-selection--single' and @role = 'combobox' and @aria-haspopup = 'true' and @aria-expanded = 'true' and @tabindex = '0' and @aria-disabled = 'false' and @aria-labelledby = 'select2-TownshipPCode-container' and @aria-owns = 'select2-TownshipPCode-results' and @aria-activedescendant = 'select2-TownshipPCode-result-vmnq-MMR001001']) = count(//span[@class = 'select2-selection select2-selection--single' and @role = 'combobox' and @aria-haspopup = 'true' and @aria-expanded = 'true' and @tabindex = '0' and @aria-disabled = 'false' and @aria-labelledby = 'select2-TownshipPCode-container' and @aria-owns = 'select2-TownshipPCode-results' and @aria-activedescendant = 'select2-TownshipPCode-result-vmnq-MMR001001'])]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

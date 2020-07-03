@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://54.169.247.250:85/')
 
-WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS  Log in/input_v10_InputUserName'), 'qcstdev')
+WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS  Log in/input_v10_InputUserName'), 'HNDA')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Org_Registration/Page_LIMS  Log in/input_v10_InputPassword'), 'rXz5fG76N1x/0XfTppooEQ==')
 
@@ -39,29 +39,29 @@ WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_L
 
 WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/input__Name'))
 
-WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_71'), 'SUM LA CHANN COMPANY LIMITED')
+WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_71'), 'ACTIVATOR ENGINEERING AND CONSTRUCTION COMPANY LIMITED')
 
 WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/input__OrgRegNo'))
 
 WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/div_Role                                   _f18f9f'))
 
-WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0'), '125554342')
+WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0'), '125461301')
 
 WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/div_Phone Number 1                         _e78f5b'))
 
-WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0_1'), '09407360496')
+WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0_1'), '09460496073')
 
 WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_Phone Number 2_ContactNo2'))
 
-WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0_1_2'), '09404609672')
+WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0_1_2'), '09404967260')
 
 WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_Phone Number 3_ContactNo3'))
 
-WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0_1_2_3'), '09400967246')
+WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0_1_2_3'), '09402460967')
 
 WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/textarea_172'), 'No-67, Sandar St, Myeik Road')
 
-WebUI.scrollToPosition(5, 8)
+WebUI.scrollToPosition(100, 100)
 
 WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/span__select2-selection select2-selection--single'))
 

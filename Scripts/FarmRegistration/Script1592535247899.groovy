@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://54.169.247.250:85/')
 
-WebUI.setText(findTestObject('Object Repository/FarmRegistration/Page_LIMS  Log in/input_v10_InputUserName'), 'qcstdev')
+WebUI.setText(findTestObject('Object Repository/FarmRegistration/Page_LIMS  Log in/input_v10_InputUserName'), 'HNDA')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/FarmRegistration/Page_LIMS  Log in/input_v10_InputPassword'), 'rXz5fG76N1x/0XfTppooEQ==')
 
@@ -35,25 +35,23 @@ WebUI.click(findTestObject('Object Repository/FarmRegistration/Page_LIMS/a_New F
 
 WebUI.click(findTestObject('Object Repository/FarmRegistration/Page_LIMS/span_Select'))
 
-WebUI.rightClick(findTestObject('Object Repository/FarmRegistration/Page_LIMS/li_'))
+WebUI.rightClick(findTestObject('FarmRegistration/Page_LIMS/li_ ()'))
 
 WebUI.click(findTestObject('Object Repository/FarmRegistration/Page_LIMS/span_Select_1'))
 
-WebUI.rightClick(findTestObject('Object Repository/FarmRegistration/Page_LIMS/li__1'))
+WebUI.rightClick(findTestObject('FarmRegistration/Page_LIMS/li_ - Copy'))
 
 WebUI.click(findTestObject('Object Repository/FarmRegistration/Page_LIMS/span_Select Owner'))
 
-WebUI.rightClick(findTestObject('Object Repository/FarmRegistration/Page_LIMS/li_Daw Hnin Shwe Yi - ()'))
+WebUI.rightClick(findTestObject('FarmRegistration/Page_LIMS/li_Daw Theint Thinzar Han - ()'))
 
 WebUI.click(findTestObject('Object Repository/FarmRegistration/Page_LIMS/input__Name'))
 
-WebUI.setText(findTestObject('Object Repository/FarmRegistration/Page_LIMS/input_82'), 'Shwe Bo Cattle Farm')
+WebUI.setText(findTestObject('Object Repository/FarmRegistration/Page_LIMS/input_82'), 'Joe Phyu Cattle Farm')
 
 WebUI.setText(findTestObject('Object Repository/FarmRegistration/Page_LIMS/textarea_Online Map Link_OnlineMapLink'), 'https://www.guru99.com/software-testing.html')
 
 WebUI.click(findTestObject('Object Repository/FarmRegistration/Page_LIMS/label_Same as Owners'))
 
-WebUI.scrollToElement(findTestObject('FarmRegistration/Page_LIMS/input_Village_btn-confirm'), 10)
-
-WebUI.click(findTestObject('Object Repository/FarmRegistration/Page_LIMS/input_Village_btn-confirm'))
+WebUI.click(findTestObject('FarmRegistration/Page_LIMS/Page_LIMS/input_Village_btn-save'))
 

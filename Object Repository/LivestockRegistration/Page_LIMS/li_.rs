@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[2]/ul/li[5]</value>
+         <value>//li[12]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -31,7 +31,7 @@
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>select2-owner-state-region-result-2gr6-MMR005</value>
+      <value>select2-owner-state-region-result-cell-MMR012</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,69 +52,69 @@
       <matchCondition>equals</matchCondition>
       <name>data-select2-id</name>
       <type>Main</type>
-      <value>select2-owner-state-region-result-2gr6-MMR005</value>
+      <value>select2-owner-state-region-result-cell-MMR012</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>စစ်ကိုင်းတိုင်းဒေသကြီး</value>
+      <value>ရခိုင်ပြည်နယ်</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select2-owner-state-region-result-2gr6-MMR005&quot;)</value>
+      <value>id(&quot;select2-owner-state-region-result-cell-MMR012&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//li[@id='select2-owner-state-region-result-2gr6-MMR005']</value>
+      <value>//li[@id='select2-owner-state-region-result-cell-MMR012']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='select2-owner-state-region-results']/li[5]</value>
+      <value>//ul[@id='select2-owner-state-region-results']/li[12]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ချင်းပြည်နယ်'])[4]/following::li[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='မွန်ပြည်နယ်'])[4]/following::li[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ကရင်ပြည်နယ်'])[4]/following::li[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='မန္တလေးတိုင်းဒေသကြီး'])[4]/following::li[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='တနင်္သာရီတိုင်းဒေသကြီး'])[4]/preceding::li[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ရန်ကုန်တိုင်းဒေသကြီး'])[4]/preceding::li[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ပဲခူးတိုင်းဒေသကြီး (အရှေ့)'])[4]/preceding::li[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ရှမ်းပြည်နယ် (တောင်)'])[4]/preceding::li[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span[2]/ul/li[5]</value>
+      <value>//li[12]</value>
    </webElementXpaths>
 </WebElementEntity>

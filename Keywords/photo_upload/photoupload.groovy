@@ -26,11 +26,12 @@ import java.awt.datatransfer.StringSelection
 import java.awt.event.KeyEvent
 
 public class photoupload {
-	def uploadFile (TestObject to, String filePath) {
+	def uploadFile(TestObject to, String filePath) {
 		WebUI.click(to)
+		WebUI.delay(3)
 		StringSelection ss = new StringSelection(filePath);
-		Toolkit.getDefaultToolkit().getSystemClipboard().setContents(ss, null);
-		Robot robot = new Robot();
+		java.awt.Toolkit.getDefaultToolkit().getSystemClipboard().setContents(ss, null);
+		java.awt.Robot robot = new java.awt.Robot();
 		robot.keyPress(KeyEvent.VK_ENTER);
 		robot.keyRelease(KeyEvent.VK_ENTER);
 		robot.keyPress(KeyEvent.VK_CONTROL);
