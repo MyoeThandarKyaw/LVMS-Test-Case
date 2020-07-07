@@ -32,7 +32,7 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/UpdateFarmNameAndOwner/Page_LIMS/a_Farms'))
 
-WebUI.navigateToUrl('http://54.169.247.250:85/Farms/Edit/085df088-49db-4e66-829d-b2dfeb4db2ec')
+WebUI.navigateToUrl('http://54.169.247.250:85/Farms/Edit/fb2c8637-5a94-435a-81d8-e2cfcc8faf16')
 
 WebUI.switchToWindowTitle('LIMS')
 
@@ -48,7 +48,7 @@ WebUI.click(findTestObject('Object Repository/UpdateFarmNameAndOwner/Page_LIMS/s
 
 WebUI.rightClick(findTestObject('Object Repository/UpdateFarmNameAndOwner/Page_LIMS/li_Daw Moe Sat May - ()'))
 
-WebUI.setText(findTestObject('UpdateFarmNameAndOwner/Page_LIMS/input_82'), 'Khin Oo Cattle Farm')
+WebUI.setText(findTestObject('UpdateFarmNameAndOwner/Page_LIMS/input_82'), 'Shwe Tar Yar Phyu (MyitKyiNar) Cattle Farm')
 
 WebUI.scrollToElement(findTestObject('UpdateFarmNameAndOwner/Page_LIMS/input_Village_btn-save'), 5)
 

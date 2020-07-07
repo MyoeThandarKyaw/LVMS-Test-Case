@@ -31,9 +31,9 @@ WebUI.click(findTestObject('Object Repository/NewUserRegistration(ExistingPerson
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/a_Setup'))
+WebUI.click(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/p_Setup'))
 
-WebUI.click(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/a_Users'))
+WebUI.click(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/p_Users'))
 
 WebUI.click(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/a_New User'))
 
@@ -41,13 +41,17 @@ WebUI.click(findTestObject('Object Repository/NewUserRegistration(ExistingPerson
 
 WebUI.click(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/input_Username_UserName'))
 
-WebUI.setText(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/input_4'), 'NAKH')
+WebUI.setText(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/input_7'), 'N')
+
+WebUI.setText(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/input_6'), 'NA')
+
+WebUI.setText(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/input_5'), 'NAK')
+
+WebUI.setText(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/input_4'), 'NAKY')
 
 WebUI.click(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/input_Password_auto_generate_checkbox'))
 
 WebUI.click(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/input_Auto-generate_PwdChangeRequiredAtFirstLogin'))
-
-WebUI.click(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/div_Administrator                          _ad29ca'))
 
 WebUI.click(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/span_Role_select2-selection select2-selecti_5ebf64'))
 
@@ -65,13 +69,7 @@ WebUI.rightClick(findTestObject('Object Repository/NewUserRegistration(ExistingP
 
 WebUI.click(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/span__select2-selection select2-selection--single'))
 
-WebUI.click(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/span__select2-selection select2-selection--single_1'))
-
-WebUI.click(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/span__select2-selection select2-selection--single'))
-
 WebUI.rightClick(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/li_Daw Nan Ayekayi Han - ()'))
 
 WebUI.click(findTestObject('Object Repository/NewUserRegistration(ExistingPerson)/Page_LIMS/input_Township_btn_save_view'))
-
-WebUI.closeBrowser()
 

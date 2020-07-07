@@ -3,7 +3,7 @@
    <description></description>
    <name>span_StateRegion_select2-selection select2-_191195</name>
    <tag></tag>
-   <elementGuidId>88e5f701-a879-4a2c-803b-cfe3e7586471</elementGuidId>
+   <elementGuidId>787629e3-b943-44e5-95e2-f52b50aa807e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -80,7 +80,7 @@
       <matchCondition>equals</matchCondition>
       <name>aria-activedescendant</name>
       <type>Main</type>
-      <value>select2-existing_person_state_region-result-3ynw-MMR001</value>
+      <value>select2-existing_person_state_region-result-6hxv-MMR001</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>

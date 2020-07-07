@@ -54,15 +54,15 @@ WebUI.scrollToPosition(400, 400)
 
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_Livestock Code_LivestockCode'))
 
-WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_1'), 'LV-000025')
+WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_1'), 'LV-000005')
 
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input__RFID0'))
 
-WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_0'), '677190031355633')
+WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_0'), '677190031351105')
 
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_Visual Tag (Main)_VisualTag0'))
 
-WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_11'), 'LV-000025')
+WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_11'), 'LV-000005')
 
 WebUI.scrollToPosition(400, 400)
 
@@ -92,11 +92,11 @@ WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS
 
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_Livestock age is_livestock-age-year'))
 
-WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_1_1'), '5')
+WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_1_1'), '4')
 
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_years_livestock-age-month'))
 
-WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_1_1_2'), '9')
+WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_1_1_2'), '1')
 
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_on_btn-calculate'))
 

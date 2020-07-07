@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Basic Info_IsAdministrator</name>
    <tag></tag>
-   <elementGuidId>ff62afb1-580b-427c-82a2-a1c5d736e4f7</elementGuidId>
+   <elementGuidId>a1e050aa-9ebe-4e86-9c20-8931f159b5b7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

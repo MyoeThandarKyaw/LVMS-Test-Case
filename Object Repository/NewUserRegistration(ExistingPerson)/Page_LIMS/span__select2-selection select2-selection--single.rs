@@ -3,7 +3,7 @@
    <description></description>
    <name>span__select2-selection select2-selection--single</name>
    <tag></tag>
-   <elementGuidId>e20d72ae-04a5-47c7-ac32-9e4ad89a412c</elementGuidId>
+   <elementGuidId>618c97f5-31a2-405f-bb1a-5ce32159dabb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -74,6 +74,13 @@
       <name>aria-owns</name>
       <type>Main</type>
       <value>select2-existing_person-results</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-activedescendant</name>
+      <type>Main</type>
+      <value>select2-existing_person-result-t24z-50774484-fcce-44c9-38eb-08d81ca6a1ff</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>

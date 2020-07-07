@@ -3,7 +3,7 @@
    <description></description>
    <name>a_New User</name>
    <tag></tag>
-   <elementGuidId>e2100567-0810-4f63-a099-fddc2f582bf8</elementGuidId>
+   <elementGuidId>9991c866-5c30-442f-b8ca-18fe54e1daa4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

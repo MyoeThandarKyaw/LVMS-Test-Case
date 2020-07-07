@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span__select2-selection select2-selection--single_1</name>
+   <name>span_Initial_select2-selection select2-sele_80bf6e</name>
    <tag></tag>
-   <elementGuidId>d55b27c6-b627-428d-8b99-0dfd919f4b5b</elementGuidId>
+   <elementGuidId>72e7607b-32d0-4cf4-bd0f-4a7285c08314</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='select2_person']/span/span/span</value>
+         <value>//span/span/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -45,7 +45,7 @@
       <matchCondition>equals</matchCondition>
       <name>aria-expanded</name>
       <type>Main</type>
-      <value>false</value>
+      <value>true</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -66,55 +66,69 @@
       <matchCondition>equals</matchCondition>
       <name>aria-labelledby</name>
       <type>Main</type>
-      <value>select2-existing_person-container</value>
+      <value>select2-NRCTsp-container</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-owns</name>
+      <type>Main</type>
+      <value>select2-NRCTsp-results</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-activedescendant</name>
+      <type>Main</type>
+      <value>select2-NRCTsp-result-e5hq-ခနတ</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select2_person&quot;)/span[@class=&quot;select2 select2-container select2-container--bootstrap4 select2-container--below select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]</value>
+      <value>id(&quot;nrc-container&quot;)/div[@class=&quot;col-lg-3 form-group&quot;]/span[@class=&quot;select2 select2-container select2-container--bootstrap4 select2-container--below select2-container--open&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='select2_person']/span/span/span</value>
+      <value>//div[@id='nrc-container']/div[2]/span/span/span</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='တနင်္သာရီ'])[2]/following::span[6]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Initial'])[1]/following::span[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Township'])[1]/following::span[10]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other ID/Passport No.'])[1]/following::span[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::span[6]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tsp'])[1]/preceding::span[5]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/preceding::span[7]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registration Status'])[1]/preceding::span[6]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/span/span/span</value>
+      <value>//span/span/span</value>
    </webElementXpaths>
 </WebElementEntity>

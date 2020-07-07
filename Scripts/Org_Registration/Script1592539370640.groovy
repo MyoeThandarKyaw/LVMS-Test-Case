@@ -39,13 +39,13 @@ WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_L
 
 WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/input__Name'))
 
-WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_71'), 'ACTIVATOR ENGINEERING AND CONSTRUCTION COMPANY LIMITED')
+WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_71'), 'PHONE HLYAN PHYO COMPANY LIMITED')
 
 WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/input__OrgRegNo'))
 
 WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/div_Role                                   _f18f9f'))
 
-WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0'), '125461301')
+WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0'), '125462332')
 
 WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/div_Phone Number 1                         _e78f5b'))
 
@@ -67,7 +67,5 @@ WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/span__s
 
 WebUI.rightClick(findTestObject('Org_Registration/Page_LIMS/li__1'))
 
-WebUI.scrollToElement(findTestObject('Org_Registration/Page_LIMS/input_No data available in table_btn-confirm-view'), 10)
-
-WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_No data available in table_btn-confirm-view'))
+WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/Page_LIMS/input_No data available in table_btn_save_view'))
 

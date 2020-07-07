@@ -41,7 +41,7 @@ public class uploadcowphoto {
 		robot.keyPress(KeyEvent.VK_ENTER);
 		robot.keyRelease(KeyEvent.VK_ENTER);
 	}
-	
+
 	def uploadFile2 (TestObject to, String file1, String file2 , String file3, String file4) {
 		WebUI.click(to)
 		WebUI.delay(3)

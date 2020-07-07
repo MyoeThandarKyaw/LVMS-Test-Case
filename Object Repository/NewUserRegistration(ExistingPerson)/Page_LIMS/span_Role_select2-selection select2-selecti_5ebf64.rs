@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Role_select2-selection select2-selecti_5ebf64</name>
    <tag></tag>
-   <elementGuidId>fdbef0ba-bd66-45fa-b18a-c6a27b190ca2</elementGuidId>
+   <elementGuidId>5e039bc1-753c-4489-afe6-11cc2157e4d8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -80,7 +80,7 @@
       <matchCondition>equals</matchCondition>
       <name>aria-activedescendant</name>
       <type>Main</type>
-      <value>select2-role-result-k7a9-a47bf898-801f-48f2-9d4d-08d81da263ec</value>
+      <value>select2-role-result-ls27-a47bf898-801f-48f2-9d4d-08d81da263ec</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>

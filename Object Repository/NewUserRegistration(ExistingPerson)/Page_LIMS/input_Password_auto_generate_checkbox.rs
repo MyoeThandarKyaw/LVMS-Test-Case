@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Password_auto_generate_checkbox</name>
    <tag></tag>
-   <elementGuidId>8e1bcf74-a159-49bb-baf7-cac2cc923b7c</elementGuidId>
+   <elementGuidId>7aa610ae-4950-4fc8-9bfb-24f2f9acefc3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
