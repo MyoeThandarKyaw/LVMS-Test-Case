@@ -37,7 +37,7 @@ WebUI.scrollToPosition(200, 200)
 
 WebUI.click(findTestObject('Object Repository/Person/Page_LIMS/input__Name'))
 
-WebUI.setText(findTestObject('Object Repository/Person/Page_LIMS/input_84'), 'Daw Kay Khine Nyein')
+WebUI.setText(findTestObject('Object Repository/Person/Page_LIMS/input_84'), 'Daw Khine Yatanar Nyein')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Person/Page_LIMS/select_'), '၅', true)
 
@@ -47,7 +47,7 @@ WebUI.rightClick(findTestObject('Person/Page_LIMS/li_'))
 
 WebUI.click(findTestObject('Object Repository/Person/Page_LIMS/input_Registration Status_NRCTail'))
 
-WebUI.setText(findTestObject('Object Repository/Person/Page_LIMS/input_0'), '၇၆၂၄၈၂')
+WebUI.setText(findTestObject('Object Repository/Person/Page_LIMS/input_0'), '၇၁၂၄၈၉')
 
 WebUI.scrollToPosition(0, 200)
 

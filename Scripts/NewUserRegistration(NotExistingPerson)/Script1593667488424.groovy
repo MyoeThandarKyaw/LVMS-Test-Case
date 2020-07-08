@@ -41,7 +41,7 @@ WebUI.click(findTestObject('Object Repository/NewUserRegistration(NotExistingPer
 
 WebUI.click(findTestObject('Object Repository/NewUserRegistration(NotExistingPerson)/Page_LIMS/input_Username_UserName'))
 
-WebUI.setText(findTestObject('Object Repository/NewUserRegistration(NotExistingPerson)/Page_LIMS/input_4'), 'ZZLW')
+WebUI.setText(findTestObject('Object Repository/NewUserRegistration(NotExistingPerson)/Page_LIMS/input_4'), 'PLP')
 
 WebUI.click(findTestObject('Object Repository/NewUserRegistration(NotExistingPerson)/Page_LIMS/input_Password_auto_generate_checkbox'))
 
@@ -55,7 +55,7 @@ WebUI.rightClick(findTestObject('Object Repository/NewUserRegistration(NotExisti
 
 WebUI.click(findTestObject('Object Repository/NewUserRegistration(NotExistingPerson)/Page_LIMS/input_Name_PersonName'))
 
-WebUI.setText(findTestObject('Object Repository/NewUserRegistration(NotExistingPerson)/Page_LIMS/input_78'), 'Daw Zun Za Lus Wha')
+WebUI.setText(findTestObject('Object Repository/NewUserRegistration(NotExistingPerson)/Page_LIMS/input_78'), 'Daw Pa Lae Phyu')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/NewUserRegistration(NotExistingPerson)/Page_LIMS/select_'), 
     '၅', true)
@@ -68,7 +68,7 @@ WebUI.click(findTestObject('Object Repository/NewUserRegistration(NotExistingPer
 
 WebUI.click(findTestObject('Object Repository/NewUserRegistration(NotExistingPerson)/Page_LIMS/input_Registration Status_PersonNRCTail'))
 
-WebUI.setText(findTestObject('Object Repository/NewUserRegistration(NotExistingPerson)/Page_LIMS/input_0'), '၈၄၇၄၈၇')
+WebUI.setText(findTestObject('Object Repository/NewUserRegistration(NotExistingPerson)/Page_LIMS/input_0'), '၈၄၉၈၅၇')
 
 WebUI.click(findTestObject('Object Repository/NewUserRegistration(NotExistingPerson)/Page_LIMS/input_Phone Number_PersonContactNo'))
 

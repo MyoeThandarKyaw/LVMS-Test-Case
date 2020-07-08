@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Object Repository/RoleRegister/Page_LIMS/a_Roles'))
 
 WebUI.click(findTestObject('Object Repository/RoleRegister/Page_LIMS/a_New Role'))
 
-WebUI.setText(findTestObject('Object Repository/RoleRegister/Page_LIMS/input_Name_Name'), ' ')
+WebUI.setText(findTestObject('Object Repository/RoleRegister/Page_LIMS/input_Name_Name'), ' DeputyManager')
 
 WebUI.click(findTestObject('Object Repository/RoleRegister/Page_LIMS/button_Check All'))
 
