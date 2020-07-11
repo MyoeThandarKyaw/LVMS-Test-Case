@@ -39,25 +39,25 @@ WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_L
 
 WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/input__Name'))
 
-WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_71'), 'PHONE HLYAN PHYO COMPANY LIMITED')
+WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_71'), 'CITY STONE COMPANY LIMITED ')
 
 WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/input__OrgRegNo'))
 
 WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/div_Role                                   _f18f9f'))
 
-WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0'), '125462332')
+WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0'), '125537677')
 
 WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/div_Phone Number 1                         _e78f5b'))
 
-WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0_1'), '09460496073')
+WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0_1'), '09460073496')
 
 WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_Phone Number 2_ContactNo2'))
 
-WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0_1_2'), '09404967260')
+WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0_1_2'), '09402604967')
 
 WebUI.click(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_Phone Number 3_ContactNo3'))
 
-WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0_1_2_3'), '09402460967')
+WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/input_0_1_2_3'), '09409672460')
 
 WebUI.setText(findTestObject('Object Repository/Org_Registration/Page_LIMS/textarea_172'), 'No-67, Sandar St, Myeik Road')
 

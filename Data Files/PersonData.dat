@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>PersonData</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>60c78cc6-c009-4059-8d90-686c3480b1a2</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Daw+Nan+Sandar+Hla+Htun %E1%81%86%E1%81%84%E1%81%88%E1%81%85%E1%81%84%E1%81%82 09453838293 No-48%2C+YawMinGyi+St%2C+Mya+Pa+Lae+Phyu+Road</data>
+   <data>Daw+Nyein+Shwe+Sin+Moe %E1%81%84%E1%81%82%E1%81%83%E1%81%88%E1%81%86%E1%81%82 0987477464843 No-89%2C+MoeMaKha+St%2C+Kyone+Kone+Road</data>
+   <data>Daw+Hinin+Wutyi+Mon %E1%81%87%E1%81%84%E1%81%88%E1%81%84%E1%81%89%E1%81%85 0978746454743 No-54%2C+Thazin+St%2C++Aung+Chan+Thar+Road</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>person_name</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>nrc_no</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>phone_no</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>address</name>
+      <size>3</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

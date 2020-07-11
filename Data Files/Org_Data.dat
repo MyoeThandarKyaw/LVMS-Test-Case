@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Org_Data</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>547987ee-fdcc-43cf-b155-3e4595b69eaa</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>EVERTECH+MYANMAR+COMPANY+LIMITED+ 125546811 094757757474 094667765353 097664555334 No-493%2C+Merchant+St%2C+Bet+39th+%26+40th+St</data>
+   <data>DANA+INTERNATIONAL+COMPANY+LIMITED 125543545 0976664645543 098733666333 09876455633 No-98%2C+Nilar+St%2C+Theingi+Road</data>
+   <data>CITY+STONE+COMPANY+LIMITED+ 125537677 097363366353 097646545456 098764646646 N0%2C78%2C+Cherry+St%2C+Yatanar+Mon+Road</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>org_name</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>org_reg_no</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>contact_no1</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>contact_no2</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>contact_no3</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>5</columnIndex>
+      <name>address</name>
+      <size>3</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
