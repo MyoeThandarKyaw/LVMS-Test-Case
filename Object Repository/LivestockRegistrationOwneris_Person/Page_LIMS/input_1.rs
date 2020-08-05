@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_2</name>
+   <name>input_1</name>
    <tag></tag>
-   <elementGuidId>cbbf5026-d459-4984-a1dd-85d97433b480</elementGuidId>
+   <elementGuidId>2ba7ee1a-c116-49a4-940e-0a96df2813f7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -87,7 +87,7 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>2</value>
+      <value>1</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='2']/parent::*</value>
+      <value>//*/text()[normalize-space(.)='1']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

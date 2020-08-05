@@ -3,7 +3,7 @@
    <description></description>
    <name>input__RFID0</name>
    <tag></tag>
-   <elementGuidId>54f40528-49bb-4aff-8cc8-1265372cf2c8</elementGuidId>
+   <elementGuidId>4af887f3-cf8f-419f-bcef-7853a7f8ace0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -24,7 +24,7 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
+      <value>form-control numeric</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>

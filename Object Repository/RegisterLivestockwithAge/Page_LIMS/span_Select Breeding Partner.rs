@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Select Breeding Partner</name>
    <tag></tag>
-   <elementGuidId>9e2d727f-5b18-41df-817c-a726e90abfa7</elementGuidId>
+   <elementGuidId>5b956901-c410-4c4e-8358-f976d981bfe0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

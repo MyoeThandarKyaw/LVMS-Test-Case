@@ -3,7 +3,7 @@
    <description></description>
    <name>input_0</name>
    <tag></tag>
-   <elementGuidId>dc9bd427-015c-4451-bee2-4e41b52ca9a7</elementGuidId>
+   <elementGuidId>87466f4d-ce55-4309-be19-0f2cfb68c9f0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -24,7 +24,7 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
+      <value>form-control numeric</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>

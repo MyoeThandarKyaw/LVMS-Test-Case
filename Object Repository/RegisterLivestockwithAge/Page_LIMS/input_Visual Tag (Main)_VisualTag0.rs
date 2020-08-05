@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Visual Tag (Main)_VisualTag0</name>
    <tag></tag>
-   <elementGuidId>c095cb11-6c71-4e1a-91ef-f5a6f0c91655</elementGuidId>
+   <elementGuidId>3d4e638f-231b-4a6b-9c19-931b7bb29f9f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

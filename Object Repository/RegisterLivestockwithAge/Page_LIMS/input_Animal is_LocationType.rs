@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Animal is_LocationType</name>
    <tag></tag>
-   <elementGuidId>0f96d374-bb16-4a0e-8983-21390d960205</elementGuidId>
+   <elementGuidId>fcd6eb5a-4854-4648-8b98-020d5424ca40</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

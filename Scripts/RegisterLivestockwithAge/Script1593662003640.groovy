@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://54.169.247.250:85/Identity/Account/Login?ReturnUrl=%2FPeople%2FCreate')
+WebUI.navigateToUrl('http://54.169.247.250:85/Identity/Account/Login?ReturnUrl=%2FLivestocks%2FCreate')
 
 WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS  Log in/input_v10_InputUserName'), 'HNDA')
 
@@ -30,10 +30,6 @@ WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/p_Livestock'))
-
-WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/a_New Livestock'))
-
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_Person_OwnerType'))
 
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/span_Select Owner'))
@@ -42,37 +38,41 @@ WebUI.rightClick(findTestObject('Object Repository/RegisterLivestockwithAge/Page
 
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_Person_BreedingPartnerType'))
 
-WebUI.rightClick(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/span_Select Breeding Partner'))
-
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/span_Select Breeding Partner'))
 
 WebUI.rightClick(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/li_MUSK-ROSE COMPANY LIMITED - 125448143_1'))
 
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_Animal is_LocationType'))
 
-WebUI.scrollToPosition(400, 400)
-
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_Livestock Code_LivestockCode'))
 
-WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_1'), 'LV-000005')
+WebUI.scrollToPosition(400, 400)
+
+WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_1'), 'LV-000017')
 
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input__RFID0'))
 
-WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_0'), '677190031351105')
+WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_0'), '677190031355633')
 
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_Visual Tag (Main)_VisualTag0'))
 
-WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_11'), 'LV-000005')
+WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_11'), 'VT-000017')
 
-WebUI.scrollToPosition(400, 400)
 
+
+//WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/span__select2-selection select2-selection--single'))
+//WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/span__select2-selection select2-selection--single_1'))
+//WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/span_Breeding System_select2-selection sele_0c59ec'))
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/span__select2-selection select2-selection--single'))
 
 WebUI.rightClick(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/li_Cattle'))
 
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/span__select2-selection select2-selection--single_1'))
 
-WebUI.rightClick(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/li_Argentine Criollo'))
+WebUI.rightClick(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/li_Jersey cattle'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/span_Breeding System_select2-selection sele_0c59ec'), 
+    5)
 
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/span_Breeding System_select2-selection sele_0c59ec'))
 
@@ -86,30 +86,24 @@ WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS
 
 WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_20_1'), 'Black')
 
-WebUI.scrollToElement(findTestObject('RegisterLivestockwithAge/Page_LIMS/button_Use Birthdate Estimator'), 3)
-
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/button_Use Birthdate Estimator'))
 
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_Livestock age is_livestock-age-year'))
 
-WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_1_1'), '4')
+WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_1_1'), '3')
 
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_years_livestock-age-month'))
 
-WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_1_1_2'), '1')
+WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_1_1_2'), '7')
 
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_on_btn-calculate'))
+WebUI.scrollToPosition(400, 400)
 
-WebUI.scrollToElement(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/span_Drop files here to upload'), 
-    3)
+//WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/span_Drop files here to upload'))
+WebUI.scrollToElement(findTestObject('LivestockRegisterwithMultiplePhotos/Page_LIMS/span_Drop files here to upload'), 5)
 
 CustomKeywords.'upload.uploadcowphoto.uploadFile2'(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/span_Drop files here to upload'), 
     'D:\\ATO\\AIMS\\Cows_photos\\strawberry.jpg', 'D:\\ATO\\AIMS\\Cows_photos\\8.jpg', 'D:\\ATO\\AIMS\\Cows_photos\\9.jpg', 
     'D:\\ATO\\AIMS\\Cows_photos\\10.jpg')
 
-WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_2'), '4')
-
-WebUI.setText(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_1_1_2_3'), '43')
-
 WebUI.click(findTestObject('Object Repository/RegisterLivestockwithAge/Page_LIMS/input_Total Births Given_btn_save_view'))
-

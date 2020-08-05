@@ -3,7 +3,7 @@
    <description></description>
    <name>input_on_btn-calculate</name>
    <tag></tag>
-   <elementGuidId>4c08eb50-85c1-4418-b8d2-1c4d96f99b8c</elementGuidId>
+   <elementGuidId>4c05269e-26c0-4007-a6fb-12c278d130a7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

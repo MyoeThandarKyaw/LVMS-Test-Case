@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Livestock Code_LivestockCode</name>
    <tag></tag>
-   <elementGuidId>90e97db1-c597-4c15-adf6-73612423dd8f</elementGuidId>
+   <elementGuidId>8fd2c289-e7e8-4d06-a3fa-1885cb2d8f5e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

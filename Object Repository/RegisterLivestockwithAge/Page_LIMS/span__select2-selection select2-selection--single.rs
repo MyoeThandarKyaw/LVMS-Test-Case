@@ -3,7 +3,7 @@
    <description></description>
    <name>span__select2-selection select2-selection--single</name>
    <tag></tag>
-   <elementGuidId>dfd99f5d-dc09-4acd-9e5d-31f2d5c2fd86</elementGuidId>
+   <elementGuidId>bbec49e2-89d5-41e9-ab1a-4f2d15097888</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -80,7 +80,7 @@
       <matchCondition>equals</matchCondition>
       <name>aria-activedescendant</name>
       <type>Main</type>
-      <value>select2-LivestockTypeId-result-mynl-3</value>
+      <value>select2-LivestockTypeId-result-ytwt-3</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>

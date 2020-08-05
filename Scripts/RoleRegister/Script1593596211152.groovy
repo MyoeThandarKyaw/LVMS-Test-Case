@@ -29,9 +29,7 @@ WebUI.click(findTestObject('Object Repository/RoleRegister/Page_LIMS  Log in/but
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/RoleRegister/Page_LIMS/p_Setup'))
-
-WebUI.click(findTestObject('Object Repository/RoleRegister/Page_LIMS/a_Roles'))
+WebUI.click(findTestObject('RoleRegister/Page_LIMS/p_Roles'))
 
 WebUI.click(findTestObject('Object Repository/RoleRegister/Page_LIMS/a_New Role'))
 

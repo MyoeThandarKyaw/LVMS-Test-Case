@@ -3,11 +3,11 @@
    <description></description>
    <name>span_Breeding System_select2-selection sele_0c59ec</name>
    <tag></tag>
-   <elementGuidId>1614c761-a8f0-4282-b7bf-845e8d9a1d56</elementGuidId>
+   <elementGuidId>6d2e9d93-cdfd-4028-b2f3-ca7abf6c8382</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='create-form']/div/div/div/div[3]/div[2]/div[5]/span/span/span</value>
+         <value>//div[5]/span/span/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -80,7 +80,7 @@
       <matchCondition>equals</matchCondition>
       <name>aria-activedescendant</name>
       <type>Main</type>
-      <value>select2-BreedingSystemId-result-3ohw-1</value>
+      <value>select2-BreedingSystemId-result-3ue2-1</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>

@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Color Spot_ColorSpot</name>
    <tag></tag>
-   <elementGuidId>2634668e-3015-4574-8e29-11656f8e41ae</elementGuidId>
+   <elementGuidId>fb7e6265-73e5-4d1d-b80f-fa4ca4c01a19</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

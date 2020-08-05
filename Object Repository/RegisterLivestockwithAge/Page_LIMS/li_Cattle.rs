@@ -3,7 +3,7 @@
    <description></description>
    <name>li_Cattle</name>
    <tag></tag>
-   <elementGuidId>221b87c3-381b-4655-a11c-52216d824deb</elementGuidId>
+   <elementGuidId>d630a635-180b-4faa-bb03-228f9a29eefa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -31,7 +31,7 @@
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>select2-LivestockTypeId-result-z8br-12</value>
+      <value>select2-LivestockTypeId-result-iix9-12</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <matchCondition>equals</matchCondition>
       <name>data-select2-id</name>
       <type>Main</type>
-      <value>select2-LivestockTypeId-result-z8br-12</value>
+      <value>select2-LivestockTypeId-result-iix9-12</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,14 +66,14 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select2-LivestockTypeId-result-z8br-12&quot;)</value>
+      <value>id(&quot;select2-LivestockTypeId-result-iix9-12&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//li[@id='select2-LivestockTypeId-result-z8br-12']</value>
+      <value>//li[@id='select2-LivestockTypeId-result-iix9-12']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'select2-LivestockTypeId-result-z8br-12', '&quot;', ')')])[1]/following::li[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'select2-LivestockTypeId-result-iix9-12', '&quot;', ')')])[1]/following::li[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,13 +102,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Buffalo'])[2]/preceding::li[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Turkeys'])[2]/preceding::li[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Person_BreedingPartnerType</name>
    <tag></tag>
-   <elementGuidId>ab6e87c3-472c-4ad4-a054-2c03cef7c77f</elementGuidId>
+   <elementGuidId>fbfffd97-873a-4b65-8267-7ef35323392f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

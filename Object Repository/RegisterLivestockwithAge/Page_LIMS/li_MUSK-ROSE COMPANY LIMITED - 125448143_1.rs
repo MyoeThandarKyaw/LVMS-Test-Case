@@ -3,11 +3,11 @@
    <description></description>
    <name>li_MUSK-ROSE COMPANY LIMITED - 125448143_1</name>
    <tag></tag>
-   <elementGuidId>b3794a3e-094f-4be6-8689-cf241b11b221</elementGuidId>
+   <elementGuidId>be33b5cb-8d9c-407a-9564-54b3738f409c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//li[11]</value>
+         <value>//li[18]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -31,7 +31,7 @@
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>select2-BreedingPartnerOrgId-result-87ix-83917e1c-3282-44ac-993a-d7203df68bb2</value>
+      <value>select2-BreedingPartnerOrgId-result-16wx-83917e1c-3282-44ac-993a-d7203df68bb2</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <matchCondition>equals</matchCondition>
       <name>data-select2-id</name>
       <type>Main</type>
-      <value>select2-BreedingPartnerOrgId-result-87ix-83917e1c-3282-44ac-993a-d7203df68bb2</value>
+      <value>select2-BreedingPartnerOrgId-result-16wx-83917e1c-3282-44ac-993a-d7203df68bb2</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,21 +66,21 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select2-BreedingPartnerOrgId-result-87ix-83917e1c-3282-44ac-993a-d7203df68bb2&quot;)</value>
+      <value>id(&quot;select2-BreedingPartnerOrgId-result-16wx-83917e1c-3282-44ac-993a-d7203df68bb2&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//li[@id='select2-BreedingPartnerOrgId-result-87ix-83917e1c-3282-44ac-993a-d7203df68bb2']</value>
+      <value>//li[@id='select2-BreedingPartnerOrgId-result-16wx-83917e1c-3282-44ac-993a-d7203df68bb2']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//ul[@id='select2-BreedingPartnerOrgId-results']/li[11]</value>
+      <value>//ul[@id='select2-BreedingPartnerOrgId-results']/li[18]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -92,8 +92,22 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='THE BIG H COMPANY LIMITED - 125482597'])[3]/preceding::li[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PHONE HLYAN PHYO COMPANY LIMITED - 125462332'])[3]/preceding::li[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[11]</value>
+      <value>//li[18]</value>
    </webElementXpaths>
 </WebElementEntity>

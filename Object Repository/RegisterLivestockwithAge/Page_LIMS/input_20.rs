@@ -3,7 +3,7 @@
    <description></description>
    <name>input_20</name>
    <tag></tag>
-   <elementGuidId>2db2269f-9b93-4715-9855-0636fd2c7673</elementGuidId>
+   <elementGuidId>f522e819-660d-49e9-92d7-e72f107a6d99</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

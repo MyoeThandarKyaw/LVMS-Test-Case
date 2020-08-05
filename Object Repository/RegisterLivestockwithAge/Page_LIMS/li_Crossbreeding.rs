@@ -3,7 +3,7 @@
    <description></description>
    <name>li_Crossbreeding</name>
    <tag></tag>
-   <elementGuidId>dc2cf2fe-3ad3-45a2-ad06-009784b80765</elementGuidId>
+   <elementGuidId>2986414b-1fc7-4eff-a959-895531598263</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -31,7 +31,7 @@
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>select2-BreedingSystemId-result-yubj-10</value>
+      <value>select2-BreedingSystemId-result-snkd-10</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -52,7 +52,7 @@
       <matchCondition>equals</matchCondition>
       <name>data-select2-id</name>
       <type>Main</type>
-      <value>select2-BreedingSystemId-result-yubj-10</value>
+      <value>select2-BreedingSystemId-result-snkd-10</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,14 +66,14 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select2-BreedingSystemId-result-yubj-10&quot;)</value>
+      <value>id(&quot;select2-BreedingSystemId-result-snkd-10&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//li[@id='select2-BreedingSystemId-result-yubj-10']</value>
+      <value>//li[@id='select2-BreedingSystemId-result-snkd-10']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,20 +95,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Straightbred'])[2]/following::li[2]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continuous'])[2]/preceding::li[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Combination Breeds'])[2]/preceding::li[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

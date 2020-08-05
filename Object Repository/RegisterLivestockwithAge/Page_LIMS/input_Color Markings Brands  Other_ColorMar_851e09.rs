@@ -3,11 +3,11 @@
    <description></description>
    <name>input_Color Markings Brands  Other_ColorMar_851e09</name>
    <tag></tag>
-   <elementGuidId>4f23cc54-09f3-4f13-a3fa-32d3fd4677f8</elementGuidId>
+   <elementGuidId>bfeb46e7-7eb1-467b-b0ed-459ef1e9bb38</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='ColorMarkingsBrandsOther']</value>
+         <value>//div[6]/div/div/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

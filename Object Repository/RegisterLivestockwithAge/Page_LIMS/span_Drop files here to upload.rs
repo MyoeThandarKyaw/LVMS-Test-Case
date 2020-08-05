@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Drop files here to upload</name>
    <tag></tag>
-   <elementGuidId>c2339754-e056-42b8-b976-f07e5779ffe0</elementGuidId>
+   <elementGuidId>44fed932-7f37-47e1-a060-bc13fde332f8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
