@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginWith_MultipleAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65091bca-ec00-4e15-84f6-679fdb5ae24f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>be244227-e539-4572-83e8-b48dae3f9ee2</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4cec41b4-dca7-4280-a1ab-4bcf73dbb54b</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
